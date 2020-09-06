@@ -9,16 +9,6 @@
       "comparison": "included",
       "timeout": 10,
       "points": 100
-    },
-    {
-      "name": "fail",
-      "setup": "",
-      "run": "python main.py",
-      "input": "",
-      "output": "hello world!",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 100
     }
   ]
 }
